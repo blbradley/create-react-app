@@ -1,6 +1,6 @@
 {
   "name": "@blbradley/react-scripts",
-  "version": "1.1.4",
+  "version": "1.1.4-relay",
   "description": "Configuration and scripts for Create React App.",
   "repository": "blbradley/create-react-app",
   "license": "MIT",
