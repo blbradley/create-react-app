@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
+  "name": "@blbradley/react-scripts",
   "version": "1.1.0",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebook/create-react-app",
+  "repository": "blbradley/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/blbradley/create-react-app/issues"
   },
   "files": [
     "bin",
@@ -29,7 +29,7 @@
     "babel-jest": "22.4.3",
     "babel-loader": "8.0.0-beta.0",
     "babel-plugin-named-asset-import": "^0.1.0",
-    "babel-preset-react-app": "^3.1.1",
+    "@blbradley/babel-preset-react-app": "^3.1.1",
     "bfj": "5.2.0",
     "case-sensitive-paths-webpack-plugin": "2.1.2",
     "chalk": "2.4.1",
